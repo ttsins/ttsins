@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttsins!
 - 👀 I’m interested in IT and Tesla cars.
-- 🌱 I’m currently learning Github.
+- 🌱 I’m currently learning about Github.
 - 💞️ I’m looking to collaborate on these practices and projects.
 - 📫 How to reach me - send me a chat.
 
